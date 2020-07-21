@@ -2,7 +2,7 @@
 import numpy as np 
 import matplotlib.pyplot as plt
 
-DownAMP = 0.028
+DownAMP = 0.0289999999999999999
 UpperAMP = 0.05
 StanceHeight = 0.18
 StepLength = 0.12
