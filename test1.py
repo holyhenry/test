@@ -2,8 +2,8 @@
 import numpy as np 
 import matplotlib.pyplot as plt
 
-DownAMP = 0.02
-UpperAMP = 0.05
+DownAMP = 0.01
+UpperAMP = 0.07
 StanceHeight = 0.18
 StepLength = 0.12
 
@@ -28,4 +28,3 @@ plt.plot(x[99],y[99],x[79],y[79],x[59],y[59],x[29],y[29], marker='*')
 plt.ylim(0.195,0.125)
 plt.grid()
 plt.show()
-
