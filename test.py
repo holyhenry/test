@@ -2,6 +2,7 @@
 import numpy as np 
 import matplotlib.pyplot as plt
 
+print("hey hello")
 DownAMP = 0.0289999999999999999
 UpperAMP = 0.05
 StanceHeight = 0.18
